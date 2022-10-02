@@ -1,0 +1,15 @@
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\bin\Debug\net6.0\pianino_delali_pod_pivo.exe
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\bin\Debug\net6.0\pianino_delali_pod_pivo.deps.json
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\bin\Debug\net6.0\pianino_delali_pod_pivo.runtimeconfig.json
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\bin\Debug\net6.0\pianino_delali_pod_pivo.dll
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\bin\Debug\net6.0\pianino_delali_pod_pivo.pdb
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.csproj.AssemblyReference.cache
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.AssemblyInfoInputs.cache
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.AssemblyInfo.cs
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.csproj.CoreCompileInputs.cache
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.dll
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\refint\pianino_delali_pod_pivo.dll
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.pdb
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\pianino_delali_pod_pivo.genruntimeconfig.cache
+C:\Users\root\Desktop\pianino_delali_pod_pivo\pianino_delali_pod_pivo\obj\Debug\net6.0\ref\pianino_delali_pod_pivo.dll
