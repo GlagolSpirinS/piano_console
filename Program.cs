@@ -2,7 +2,7 @@
 Console.WriteLine("ЭТО КЛАВИАТУРА КОТОРУЮ Я НЕНАВИЖУ");
 Console.WriteLine("Клавиши Диеза W,E,T,Y,U");
 Console.WriteLine("Клавиши нот A,S,D,F,G,H,J");
-Console.WriteLine("Клавиши переключение актав F1,F2,F3,F4,F5,F6,F7,F8");
+Console.WriteLine("Клавиши переключение актав F1,F2,F3,F4,F5");
 Console.WriteLine("По умолчанию ключена первая актава!");
 Console.WriteLine("-----------------------------------------------");
 

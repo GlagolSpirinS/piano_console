@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\root\\Desktop\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo.csproj": {}
+    "C:\\Users\\root\\Documents\\GitHub\\piano_console\\pianino_delali_pod_pivo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\root\\Desktop\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo.csproj": {
+    "C:\\Users\\root\\Documents\\GitHub\\piano_console\\pianino_delali_pod_pivo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\root\\Desktop\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo.csproj",
+        "projectUniqueName": "C:\\Users\\root\\Documents\\GitHub\\piano_console\\pianino_delali_pod_pivo.csproj",
         "projectName": "pianino_delali_pod_pivo",
-        "projectPath": "C:\\Users\\root\\Desktop\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo.csproj",
+        "projectPath": "C:\\Users\\root\\Documents\\GitHub\\piano_console\\pianino_delali_pod_pivo.csproj",
         "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\root\\Desktop\\pianino_delali_pod_pivo\\pianino_delali_pod_pivo\\obj\\",
+        "outputPath": "C:\\Users\\root\\Documents\\GitHub\\piano_console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
